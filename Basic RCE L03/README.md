@@ -2,7 +2,6 @@
 비주얼베이직에서 스트링 비교함수 이름은?  
 
 bin - binary file  
-src - source file  
 
 ![LCE03-0](https://github.com/ezkkakka/codeengn/assets/118009522/7b56eed2-6263-4662-8ef2-089d834ba8bb)  
 
